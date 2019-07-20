@@ -35,4 +35,4 @@
 .btn-primary{background-color:#C97A90;border-color:#C97A90}
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#FD3A94;border-color:#FD3A94}
 .font-weight-light{font-weight:100!important}
-.fb-like{width:45%}}.cta{padding-top:5rem;padding-bottom:5rem;background-color:rgba(201,122,144,.9)}
+.fb-like{left:0;width:60%;margin-top:3rem;position:absolute}
