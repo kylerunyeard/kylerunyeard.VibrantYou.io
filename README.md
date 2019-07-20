@@ -1,2 +1,2 @@
-# kylerunyeard.VibrantYou.io-
+# kylerunyeard.VibrantYou.io
 permalink: /index.html
